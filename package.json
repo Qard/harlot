@@ -1,10 +1,10 @@
 {
   "author": "Stephen Belanger <admin@stephenbelanger.com> (stephenbelanger.com)",
   "name": "harlot",
-  "description": "Cleans cruft of building new hook.io hooks and servers.",
+  "description": "Reduces cruft of building new hook.io hooks and servers.",
   "version": "0.0.0",
   "repository": {
-    "url": ""
+    "url": "git://github.com/Qard/harlot.git"
   },
   "engines": {
     "node": ">= v0.4.7"
