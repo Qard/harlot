@@ -16,6 +16,9 @@ Name or descriptive object to initialize new hook with. Accepts any number of ar
 #### harlot.start()
 It should be obvious what this does. ;)
 
+#### Harlot.hook(cb)
+This is how you build a child hook. The callback accepts two arguments (hook, options) and handles all the construction and inheritance cruft. Note, this is directly exposed in the exports--no need for new Harlot().
+
 ## Examples
 
 ### Parent Hook
