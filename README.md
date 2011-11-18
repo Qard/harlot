@@ -1,5 +1,5 @@
 # Harlot
-With harlot, you can remove a bunch of that extra cruft you add to ever hook you write. Harlot also enforces to practice of a vanilla parent hook. You have no access to the parent hook at all.
+With harlot, you can remove a bunch of that extra cruft you add to every hook you write. Harlot also enforces the practice of using a vanilla parent hook. You have no access to the parent hook at all.
 
 ## Usage
 
